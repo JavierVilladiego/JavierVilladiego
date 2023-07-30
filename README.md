@@ -18,7 +18,7 @@
 <h3 align="left"> Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/javiervilladie4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="javiervilladie4" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/javier-david-villadiego-amaya-289424135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-david-villadiego-amaya-289424135" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javiervilladiegoa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-david-villadiego-amaya-289424135" height="30" width="40" /></a>
 <a href="https://instagram.com/javier_v_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="javier_v_a_" height="30" width="40" /></a>
  </p>
 
